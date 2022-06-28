@@ -13,12 +13,12 @@ Chennai Metro Travel Planner and Ticket Booking(CMTPTB) is a website that helps 
 <ul>
 <li> Start with this Github Repository</li>
 <li>Git clone to directory of your choice $ git clone https://github.com/sainikhilll/cps.git</li>
-<li> Open CMTPTB-frontend folder in VS Code</li>
+<li> Open Metro-ng frontend folder in VS Code</li>
 <li>Run npm install in terminal.</li>
 <li>Run ng serve to launch frontend.</li>
 <li>Open SQL Script which is present in Database folder in MySQL workbench and run the script to create all the required tables</li>
-<li>Import the CMTPTB-rest in STS and Change Database configurations in application.properties</li>
-<li>Start the Application from CMTPTBRestApplication.java file.</li>
+<li>Import the metro-rest in STS and Change Database configurations in application.properties</li>
+<li>Start the Application from metroRestApplication.java file.</li>
 <li>Access the application from Browser</li>
 </ul>
 
