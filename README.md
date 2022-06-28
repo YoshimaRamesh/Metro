@@ -7,7 +7,7 @@
 
 
 <h1> Chennai Metro Travel Planner and Ticket Booking </h1>
-Chennai Metro Travel Planner and Ticket Booking(CMTPTB) is a website that helps metro users to check train station, book tickets and travel-card. Admin: Admin is a person who has control over lines and stations,ticket policy. Customer: User is person who can create account  by signing up and login to account to view soucre and destination stations and plan their travel using ticket policies,they can book tickets online by using wallet and travel-card.
+Chennai Metro Travel Planner and Ticket Booking(CMTPTB) is a website that helps metro users to view travel plan, book tickets and buy travel-card. Admin: Admin is a person who has control over lines and stations,ticket policy. Customer: Customer is person who can create account  by signing up and login to account to view source and destination stations and plan their travel,they can book tickets online by using wallet and travel-card.
 
 <h2>Getting Started</h2>
 <ul>
@@ -50,14 +50,11 @@ Chennai Metro Travel Planner and Ticket Booking(CMTPTB) is a website that helps 
 <h3>DevOps</h3>
 <ul>
   <li>AWS</li>
-  <li>Docker</li>
-  <li>Jenkins</li>
   <li>Git</li>
 </ul>
 
 <h3>Testing</h3>
 <ul>
-  <li>Junit, Jasmine, Karma</li>
   <li>Postman</li>
 </ul>
 
